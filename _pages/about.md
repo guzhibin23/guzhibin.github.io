@@ -26,52 +26,53 @@ News
 Publications
 ======
 - **EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization**
-- 
+
   **Zhibin Gu**, Zhendong Li, Songhe Feng
   
   International Conference on Machine Learning (ICML), 2024
 
 - **Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering**
-- 
+
   **Zhibin Gu**, Songhe Feng
   
   ACM Transactions on Knowledge Discovery from Data, 17(1): 7:1-7:21 (2023)
 
 - **ONION: Joint Unsupervised Feature Selection and Robust Subspace Extraction for Graph-based Multi-View Clustering**
-- 
+
   **Zhibin Gu**, Songhe Feng, Ruiting Hu, Gengyu Lyu
   
   ACM Transactions on Knowledge Discovery from Data, 17(5), 70:1- 23, 2023
 
 - **NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering**
-- 
+
   **Zhibin Gu**, Songhe Feng, Zhendong Li, Jun Liu
   
   ACM Transactions on Knowledge Discovery from Data, Accepted, 2024
 
 - **Diversity Induced Consensus and Structured Graph Learning for Multi-View Clustering**
-- 
+
   **Zhibin Gu**, Hongzhe Liu, Songhe Feng
   
   Applied Intelligence, 53(5), pp. 12237-12251, 2023
 
-**Triple-Granularity Contrastive Learning for Deep Multi-View Subspace Clustering**  
+- **Triple-Granularity Contrastive Learning for Deep Multi-View Subspace Clustering**
 
-Jing Wang, Songhe Feng, Gengyu Lyu, **Zhibin Gu**  
+  Jing Wang, Songhe Feng, Gengyu Lyu, **Zhibin Gu**
+  
+  ACM Multimedia, 2023: 2994-3002 (CCF A 类)
 
-ACM Multimedia, 2023: 2994-3002 (CCF A 类)
+- **One-Step Graph-Based Incomplete Multi-View Clustering**
 
-**One-Step Graph-Based Incomplete Multi-View Clustering**  
+  Baishun Zhou, Jintian Ji*, **Zhibin Gu***, Zihao Zhou, Songhe Feng
+  
+  Multimedia Systems, 2023.
 
-Baishun Zhou, Jintian Ji*, **Zhibin Gu***, Zihao Zhou, Songhe Feng  
+- **Multi-View Adaptive Semi-Supervised Feature Selection with the Self-Paced Learning**
 
-Multimedia Systems, 2023.
+  Caijuan Shi, **Zhibin Gu**, Changyu Duan, Qi Tian
+  
+  Signal Processing. 168 (2020)
 
-**Multi-View Adaptive Semi-Supervised Feature Selection with the Self-Paced Learning** 
-
-Caijuan Shi, **Zhibin Gu**, Changyu Duan, Qi Tian  
-
-Signal Processing. 168 (2020)
 
 
 
