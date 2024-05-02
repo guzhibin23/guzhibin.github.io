@@ -26,27 +26,33 @@ News
 Publications
 ======
 - **EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization**
+- 
   **Zhibin Gu**, Zhendong Li, Songhe Feng
+  
   International Conference on Machine Learning (ICML), 2024
 
-- **Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization**
-  **Zhibin Gu**, Zhendong Li, Songhe Feng
-  ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2024
-
 - **Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering**
+- 
   **Zhibin Gu**, Songhe Feng
+  
   ACM Transactions on Knowledge Discovery from Data, 17(1): 7:1-7:21 (2023)
 
 - **ONION: Joint Unsupervised Feature Selection and Robust Subspace Extraction for Graph-based Multi-View Clustering**
+- 
   **Zhibin Gu**, Songhe Feng, Ruiting Hu, Gengyu Lyu
+  
   ACM Transactions on Knowledge Discovery from Data, 17(5), 70:1- 23, 2023
 
 - **NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering**
+- 
   **Zhibin Gu**, Songhe Feng, Zhendong Li, Jun Liu
+  
   ACM Transactions on Knowledge Discovery from Data, Accepted, 2024
 
 - **Diversity Induced Consensus and Structured Graph Learning for Multi-View Clustering**
+- 
   **Zhibin Gu**, Hongzhe Liu, Songhe Feng
+  
   Applied Intelligence, 53(5), pp. 12237-12251, 2023
 
 
