@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year Ph.D. student in the Department of Computer Science at [Beijing Jiaotong University](https://bjtu.edu.cn/), under the supervision of Professor [Songhe Feng] (http://faculty.bjtu.edu.cn/8407/). From March 2023 to March 2024, I was sponsored by the China Scholarship Council (CSC) and served as a visiting scholar at the [Singapore University of Technology and Design] (https://www.sutd.edu.sg/), under the guidance of Professor [Jun Liu] (https://people.sutd.edu.sg/~jun_liu/). My research focuses on machine learning and data mining, with particular emphasis on multi-view learning and weakly supervised learning.
+I am currently a fourth-year Ph.D. student in the Department of Computer Science at [Beijing Jiaotong University](https://bjtu.edu.cn/), under the supervision of Professor [Songhe Feng](http://faculty.bjtu.edu.cn/8407/). From March 2023 to March 2024, I was sponsored by the China Scholarship Council (CSC) and served as a visiting scholar at the [Singapore University of Technology and Design](https://www.sutd.edu.sg/), under the guidance of Professor [Jun Liu](https://people.sutd.edu.sg/~jun_liu/). My research focuses on machine learning and data mining, with particular emphasis on multi-view learning and weakly supervised learning.
 
 A data-driven personal website
 ======
