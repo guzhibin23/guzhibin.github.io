@@ -55,5 +55,24 @@ Publications
   
   Applied Intelligence, 53(5), pp. 12237-12251, 2023
 
+**Triple-Granularity Contrastive Learning for Deep Multi-View Subspace Clustering**  
+
+Jing Wang, Songhe Feng, Gengyu Lyu, **Zhibin Gu**  
+
+ACM Multimedia, 2023: 2994-3002 (CCF A 类)
+
+**One-Step Graph-Based Incomplete Multi-View Clustering**  
+
+Baishun Zhou, Jintian Ji*, **Zhibin Gu***, Zihao Zhou, Songhe Feng  
+
+Multimedia Systems, 2023.
+
+**Multi-View Adaptive Semi-Supervised Feature Selection with the Self-Paced Learning** 
+
+Caijuan Shi, **Zhibin Gu**, Changyu Duan, Qi Tian  
+
+Signal Processing. 168 (2020)
+
+
 
 
