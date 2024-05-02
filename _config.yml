@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhibin2.png"
+  avatar           : " profile.png"
   name             : "Zhibin Gu"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in the Field of Machine Learning and Data Mining"
